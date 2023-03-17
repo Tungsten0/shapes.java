@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.logging.*;
 import java.sql.*;
 
-//@authors Marco
+//@authors Marco, Amali Teck
 
 public class Main {
     public static void main(String[] args) {
